@@ -1,0 +1,25 @@
+# Python 3.10+  (originally run on Google Colab with a GPU runtime)
+# Install with:  pip install -r requirements.txt
+
+# Core data handling
+pandas
+numpy
+
+# Classical ML — TF-IDF baseline & recommender
+scikit-learn
+
+# Deep learning — Bidirectional LSTM
+tensorflow
+
+# Statistical testing — McNemar
+statsmodels
+
+# Model explainability
+shap
+
+# Plotting
+matplotlib
+seaborn
+
+# Notebook
+jupyter

@@ -1,0 +1,5 @@
+model,macro_f1,accuracy,mae_levels,qwk
+LogReg (title+description),0.6706,0.734,0.3928,0.7016
+LogReg (description-only),0.6283,0.7109,0.429,0.6744
+"BiLSTM (title+description, dampened w)",0.7132,0.7812,0.3103,0.7729
+"BiLSTM (description-only, dampened w)",0.6015,0.7068,0.451,0.6312
